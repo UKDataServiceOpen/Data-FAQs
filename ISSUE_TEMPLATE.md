@@ -6,3 +6,5 @@
 
 ## Other Comments
 <!-- Any questions that will appear beyond your initial question -->
+
+Any answer below with a high number of thumbs up should be merged as an answer.
