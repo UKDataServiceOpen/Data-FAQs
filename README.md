@@ -9,7 +9,7 @@ Go to the [Issues page](https://github.com/UKDataServiceOpen/Data-FAQs/issues) a
 
 ## FAQs
 ### Techniques
-* R or Python - For general Data Science, should I learn R or Python, or something else?
+* [R or Python](https://github.com/UKDataServiceOpen/Data-FAQs/issues/2) - For general Data Science, should I learn R or Python, or something else?
 
 ### Careers
-* CVs - What should I put on my Data CV if I have never had a job?
+* [CVs](https://github.com/UKDataServiceOpen/Data-FAQs/issues/3) - What should I put on my Data CV if I have never had a job?
